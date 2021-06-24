@@ -1,0 +1,52 @@
+# Miscellaneous
+/front-end/demo_getx/*.class
+/front-end/demo_getx/*.log
+/front-end/demo_getx/*.pyc
+/front-end/demo_getx/*.swp
+/front-end/demo_getx/.DS_Store
+/front-end/demo_getx/.atom/
+/front-end/demo_getx/.buildlog/
+/front-end/demo_getx/.history
+/front-end/demo_getx/.svn/
+
+# IntelliJ related
+/front-end/demo_getx/*.iml
+/front-end/demo_getx/*.ipr
+/front-end/demo_getx/*.iws
+/front-end/demo_getx/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+/front-end/demo_getx/**/doc/api/
+/front-end/demo_getx/**/ios/Flutter/.last_build_id
+/front-end/demo_getx/.dart_tool/
+/front-end/demo_getx/.flutter-plugins
+/front-end/demo_getx/.flutter-plugins-dependencies
+/front-end/demo_getx/.packages
+/front-end/demo_getx/.pub-cache/
+/front-end/demo_getx/.pub/
+/front-end/demo_getx/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/front-end/demo_getx/android/app/debug
+/front-end/demo_getx/android/app/profile
+/front-end/demo_getx/android/app/release
+
+#denpendency
+/back-end/node_modules
+
+#storage
+/back-end/public/uploads/videos/*.mp4

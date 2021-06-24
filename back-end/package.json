@@ -1,0 +1,25 @@
+{
+  "name": "demo_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "admin",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^5.8.3",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "firebase": "^8.3.1",
+    "firebase-admin": "^9.6.0",
+    "mongoose": "^5.12.2",
+    "mongoose-simple-random": "^0.4.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  }
+}
